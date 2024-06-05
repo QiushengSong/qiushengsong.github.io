@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "WeiqiSong's Homepage"
+title                    : "Qiusheng's Homepage"
 title_separator          : "-"
 name                     : &name "Weiqi Song"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Weiqi Song"
-  pronouns         : "her" # example: "she/her"  
+  pronouns         : "he" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Chnia"
   employer         : "Red Brick University"
